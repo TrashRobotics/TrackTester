@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="ссылка на видео"><img src="https://github.com/TrashRobotics/TrackTester/blob/main/img/ttest.jpg" alt="Тестер гусениц" width="800"></a>
+  <a href="https://youtu.be/-gXn1Pne5JI"><img src="https://github.com/TrashRobotics/TrackTester/blob/main/img/ttest.jpg" alt="Тестер гусениц" width="800"></a>
   <br>
   Тестер гусениц
   <br>
@@ -21,7 +21,7 @@
 * 2x 18650 аккумуляторы и батарейный отсек для них;
 * тумблер;
 * доска или кусок фанеры 190x80 мм;
-* [колеса, крепления и прочеее](ссылка на детали)
+* [колеса, крепления и прочее](https://www.thingiverse.com/thing:4980691)
 
 ### Крепеж
 * Подшипник 623 2RS (180023) 3dx10Dx4H x2;
