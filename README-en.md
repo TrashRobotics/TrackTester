@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-  <a href="ссылка на видео"><img src="https://github.com/TrashRobotics/TrackTester/blob/main/img/ttest.jpg" alt="Track Tester" width="800"></a>
+  <a href="https://youtu.be/-gXn1Pne5JI"><img src="https://github.com/TrashRobotics/TrackTester/blob/main/img/ttest.jpg" alt="Track Tester" width="800"></a>
   <br>
   Track Tester
   <br>
@@ -11,7 +11,7 @@
 </p>
 
 # Description
-Track platform testing programs
+ Track testing platform programs
 
 # Main parts
 * arduino Nano v3;
@@ -21,7 +21,7 @@ Track platform testing programs
 * 2x 18650 accumulators and battery compartment for them;
 * toggle switch;
 * board or piece of plywood 190x80 mm;
-* [wheels, fasteners, etc](ссылка на детали)
+* [wheels, holders, etc](https://www.thingiverse.com/thing:4980691)
 
 ### Fasteners
 * Bearing 623 2RS (180023) 3dx10Dx4H x2;
